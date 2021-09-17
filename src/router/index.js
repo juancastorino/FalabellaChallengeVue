@@ -1,7 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Welcome from '../views/Welcome.vue'
 import NumberList from '../views/NumberList.vue'
-// import NumberList from '../views/Welcome.vue'
 
 const routes = [
   {

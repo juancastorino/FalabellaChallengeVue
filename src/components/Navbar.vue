@@ -2,10 +2,10 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-success">
     <div class="container-fluid">
       <img
-        src="localhost/public/images/falabella_logo.svg"
+        src="../../public/images/falabella_logo.svg"
         alt="fallabella"
         width="200"
-        height="auto"
+        height="50"
       />
       <div v-if="props.isWelcome == 'true'">
         <a
