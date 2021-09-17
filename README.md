@@ -1,19 +1,10 @@
-# falabella_challenge
+## Falabella Challenge.
 
-## Project setup
-```
-npm install
-```
+- This is the Flutter version of the challenge. 
+- View my challenge in PHP <a href='https://github.com/juancastorino/FalabellaChallenge'>HERE</a>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Stack
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Vue 3 (I just learning and practicing with VUE)
+- Provider
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
