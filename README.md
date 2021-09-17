@@ -5,6 +5,6 @@
 
 ## Stack
 
-- Vue 3 (I just learning and practicing with VUE)
+- Vue 3 (I just learning, practicing, playing...)
 - Provider
 
