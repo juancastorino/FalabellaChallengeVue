@@ -1,6 +1,6 @@
 ## Falabella Challenge.
 
-- This is the Flutter version of the challenge. 
+- This is the VUE version of the challenge. 
 - View my challenge in PHP <a href='https://github.com/juancastorino/FalabellaChallenge'>HERE</a>
 
 ## Stack
